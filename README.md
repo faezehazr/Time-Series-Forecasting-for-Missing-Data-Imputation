@@ -23,7 +23,7 @@ This project tackles **time series forecasting** to predict missing hourly data 
 ---
 
 ## 📂 Project Structure
-
+📂 time-series-forecasting │── 📄 time_series_forecasting.ipynb # Main Jupyter Notebook │── 📂 data # Raw and Processed Data │── 📂 models # Trained Models & Results │── 📄 results.csv # Final Forecasts │── 📄 README.md # Project Documentation
 ---
 
 ## 🚀 How to Run
